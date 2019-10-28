@@ -1,0 +1,1 @@
+paziti na sintaksu, vristi na greske

@@ -1,0 +1,8 @@
+(*Ovo je komentar*) Neki kod (**** *)
+(** **** * * * *)
+begin
+{jednostruki komentari}
+jos koda ovde
+{komentar
+vise linija 
+koda}
