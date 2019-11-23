@@ -1,0 +1,42 @@
+<CATALOG>
+    <PLANT>
+        <COMMON>Bloodroot</COMMON>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$2.44</PRICE>
+        <AVAILABILITY>031599</AVAILABILITY>
+        <BOTANICAL>Sanguinaria canadensis</BOTANICAL>
+
+    </PLANT>
+    <PLANT>
+        <COMMON>Columbine</COMMON>
+        <BOTANICAL>Aquilegia canadensis</BOTANICAL>
+        <ZONE>3</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$9.37</PRICE>
+        <AVAILABILITY>032399</AVAILABILITY>
+    </PLANT>
+    <PLANT>
+        <COMMON>Columbine</COMMON>
+        <ZONE>3</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>$9.37</PRICE>
+        <AVAILABILITY>123223</AVAILABILITY>
+    </PLANT>
+    <PLANT>
+        <COMMON>Columbine</COMMON>
+        <ZONE>3</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>Kurcina</PRICE>
+        <BOTANICAL>Aquilegia canadensis</BOTANICAL>
+        <AVAILABILITY>12123</AVAILABILITY>
+    </PLANT>
+    <PLANT>
+        <COMMON>Wrong</COMMON>
+        <BOTANICAL>Wrong</BOTANICAL>
+        <ZONE>4</ZONE>
+        <LIGHT>Mostly Shady</LIGHT>
+        <PRICE>2.44</PRICE>
+        <AVAILABILITY>031599</AVAILABILITY>
+    </PLANT>
+</CATALOG>
